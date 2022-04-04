@@ -1,1 +1,1 @@
-# VAE-ppt-for-presentation
+# Variational Autoencoder - MNIST dataset
