@@ -1,3 +1,4 @@
 # Variational Autoencoder - MNIST dataset
 
-## Dataset introduction - MNIST
+## Dataset introduction - MNIST:
+## MNIST dataset 
